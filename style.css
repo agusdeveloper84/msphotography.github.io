@@ -6,11 +6,11 @@
 
 @font-face {
   font-family: "Ruhl";
-  src: url("../Photography Project/fonts/FrankRuhlLibre-Regular.ttf");
+  src: url("./fonts/FrankRuhlLibre-Regular.ttf");
 }
 @font-face {
   font-family: "Vibes";
-  src: url("../Photography Project/fonts/GreatVibes-Regular.ttf");
+  src: url("./fonts/GreatVibes-Regular.ttf");
 }
 
 html {
